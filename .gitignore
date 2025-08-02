@@ -1,2 +1,24 @@
 # Ignora il file del database
 dati-bambino.json
+
+# Python virtual environment
+plotly_env/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
